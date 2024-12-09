@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="yp1a62" name="3BandEQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginFormats="buildStandalone,buildVST3">
   <MAINGROUP id="AFBjzC" name="3BandEQ">
     <GROUP id="{3347E710-7B9E-CC7E-9528-1E1E7B85676A}" name="Source">
       <FILE id="hAsnxL" name="PluginProcessor.cpp" compile="1" resource="0"
