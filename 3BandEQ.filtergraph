@@ -65,10 +65,10 @@
           uiLastY_Normal="190" uiopen_Normal="1">
     <PLUGIN name="3BandEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="/Users/chaitanyashahare/Library/Audio/Plug-Ins/VST3/3BandEQ.vst3"
-            uniqueId="6a4a316" isInstrument="0" fileTime="193b90eda53" infoUpdateTime="193b919e921"
+            uniqueId="6a4a316" isInstrument="0" fileTime="193b90eda53" infoUpdateTime="193be830a50"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="acfe40b8"/>
-    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <STATE>623.VMjLgXl....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9LCNy3BTEwlXmAiUYoWUrIVdA4hKAIlKTETRUAUSAAkKBolQY4BQlMTQlQkVscVLPASTGgjQIcUV2EjYic1cVM1ZAAkKIAkKt3hKt3hKPcjZtDjKTETRUAUSAAkKBolQY4BQ1MTQlQkVscVLPASTGgzT2ESX1UkQtDSQFEFLUYjKAolKA4hKt3hKt3hKt3hKt.UQpQUPvPjKAgDTZoVPP4RST4xT0MlLPASTGgjQIcUV2EjYic1cVM1ZAAkKIAkKt3hKt3hKt3RStDjKTETRUAUSAAkKBolQY4BQlMTQ1oWXxzDUioWP3Qkb3XjXqEjYic1cVM1ZAAkKIAkKt3hKt3hKt3hKt3hKTETRUAUSAAkKBolQY4BQ1ITQtTUVmMmQHYTRWk0cAY1XmcmUisVPP4RRP4hKt3hKt3hYynmKA4BUAkTUP0TPP4hPpYTVtPjcBUjKUk0YyYDRGUjUZQWPlM1Y2Y0XqEDTtjDTt3hKt3hKt3hKt3hKtPUPIUETMEDTtHjZFkkKDY1PE4RUYc1bFgTTUcEVxslQiQSPlM1Y2Y0XqEDTtjDTt3hKt3hKt3hK2rhKt3hKt3hKt3hKt3haTU0PUQDU3sFaicVTWkEQEYzXmEDTtDDRTQlcEEiX4EDTtDDSt3xXt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQ77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
     <LAYOUT>
       <INPUTS>
         <BUS index="0" layout="L R"/>
@@ -82,7 +82,7 @@
           uiLastX_Normal="856" uiLastY_Normal="496" uiopen_Normal="1">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="193b919e921"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="193be830a50"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
     <STATE>728.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1aPTG.u.PU.LG.kAfb.LG.u.vX.fF.gAPZ.PG.gAfa.jG.gAvb.fF.gA.Z.DF.xAPY.7B.DAva.bG.tA.a.7F.gA.Y.LG.u.PP.DD.DAPP.PE.f.PR.3D.SA.U.HE.UAPS.TD.NA.U.DD.LAfP.fD.AAfS.bE.AAfT.DD.YA.H.XF.kAPX.PG.t..H.bD.uA.Z.TF.xA.H.zD.0APa.PG.gAfd..B.f.fS.TD.SAvP.DD.FAPx..B.BAPX.LG.kAPa.TF.tA.c..B.SAPY.DF.yAva.3F.f.PM..B.f.fL..C.w.PN.3B.sA.b.LSnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA...........ipKB..X...................XiaTP..........PUUUUUUUUUUUUUUUUUUUUUA....TUUUUE.....................................+++2AA...........n8pA.....PBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PZ.QFvjAvY.qFfsAjb.TGP0Bfj.II.UBTk.ZI.WBDl.jIvZ........BD..........h...................BPG</STATE>
