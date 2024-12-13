@@ -135,9 +135,13 @@ private:
             default:
                 break;
         }
-        
-        
     }
+    
+    void updateLowCutFilters(const ChainSettings& chainSettings);
+    
+    void updateHighCutFilters(const ChainSettings& chainSettings);
+
+    void updateFilters();
     
     //==============================================================================
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (_3BandEQAudioProcessor)
